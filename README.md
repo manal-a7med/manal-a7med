@@ -43,16 +43,14 @@ Currently, I am focused on:
 ### Selected Highlights
 
 - Developed a custom pipelined RISC-V processor with instruction decoding and hazard handling
-- Implemented AES-128 encryption core using Verilog for FPGA acceleration
 - Designed approximate multipliers with real-time error visualization on Nexys 4
 - Built a privilege-separated UART system in bare-metal ARM using EL0/EL1 transitions
-- Created an FPGA-controlled smart traffic system with dynamic light sequencing
 
 ---
 
 ### Contact
 
-- **Email:** your.email@example.com  
+- **Email:** manalahmedmatheen@gmail.com  
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
 
